@@ -1,0 +1,11 @@
+Every NPC needs to have a memory of other NPCs it has encountered and its own general perception of those NPCs in regard to itself.
+
+Relationship Statuses:
+
+- Stranger (never met)
+- Acquaintance
+- Friend
+- Lover
+- Spouse
+- Child/Parent
+- Colleague
